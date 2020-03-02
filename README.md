@@ -2,7 +2,7 @@
 YOLO is a pretrained network to detect 80 objectsfrom an image as mentioned in the.txt file.
 
 # Files required for yolo
-yolov3.txt - Contains the name of 80 objects.
+yolov3.txt - Contains the name of 80 objects
 yolov3.cfg - contains the values of different layers like batch size, filters and more
 yolov3.weights - Pretrained Model
 
